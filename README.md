@@ -1,4 +1,6 @@
-# Hackathon Example API
+Archived on GitHub and moved to https://git.sr.ht/~gary_moore/hack-example-api
+
+    # Hackathon Example API
 
 This is a FastAPI project that you can use to get started with your project.
 Included is an example of calling an API, and I've pre-configured CORS for
